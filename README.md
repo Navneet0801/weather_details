@@ -7,7 +7,7 @@
  -  Pure HTML, CSS, JavaScript used.
  
  ## To see the project
-Link to the Project : [Weather website]([https://simple-weather-website.netlify.app/](https://navneet0801.github.io/weather_details/))
+Link to the Project : [Weather website](https://navneet0801.github.io/weather_details/)
 
 ## Preview
 
